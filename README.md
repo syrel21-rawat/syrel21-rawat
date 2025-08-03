@@ -2,7 +2,7 @@
 <p>
 Welcome to my GitHub profile!👋<br>
 I'm passionate about turning data into actionable insights and building beautiful, interactive dashboards.<br>
-Explore my projects below to see how I uncover trends, build predictive models, and visualize business impact.
+Explore my projects to see how I uncover trends, build predictive models, and visualize business impact.
 </p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/4a/94/17/4a94176150a26d6b929260abe66d4120.gif">
