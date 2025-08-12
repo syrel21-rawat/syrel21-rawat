@@ -17,4 +17,3 @@ Explore my projects to see how I uncover trends, build predictive models, and vi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syrel21-rawat&show_icons=true&locale=en" alt="syrel21-rawat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syrel21-rawat&" alt="syrel21-rawat" /></p>
